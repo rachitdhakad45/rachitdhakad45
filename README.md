@@ -1,20 +1,21 @@
-```txt
-rachit@home
-------------------------------------------
-College: ...... RGPV, Bhopal (B.Tech CSE, 3rd Year)
-Languages: .... Python, C++, SQL
-ML Stack: ..... Scikit-learn, Pandas, NumPy, NLP, RAG
-Contact: ...... rachit.dhakad45@gmail.com
-------------------------------------------
+<p align="center">
+  <img src="./assets/neural-banner.svg" width="100%" alt="Rachit Dhakad - Aspiring AI/ML Engineer">
+</p>
 
-Focus: ........ Machine Learning & AI
-Goal: ......... AI/ML Engineer
-Status: ....... Open to Internships & Full-Time Roles
+```python
+# In [1]
+from rachit import profile
 
-GitHub: ....... @rachitdhakad45
-LinkedIn: ..... in/rachit-dhakad
+profile.summary()
+```
 
-rachit@home:~$ █
+```text
+# Out[1]
+name    : Rachit Dhakad
+role    : 3rd-year CSE student | Aspiring AI/ML Engineer
+college : RGPV, Bhopal
+stack   : Python, C++, SQL, Scikit-learn, Pandas, NumPy, NLP, RAG
+status  : Open to Internships & Full-Time Roles
 ```
 <div align="center">
 
