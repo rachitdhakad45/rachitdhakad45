@@ -11,11 +11,11 @@ profile.summary()
 
 ```text
 # Out[1]
-name    : Rachit Dhakad
-role    : 3rd-year CSE student | Aspiring AI/ML Engineer
-college : RGPV, Bhopal
-stack   : Python, C++, SQL, Scikit-learn, Pandas, NumPy, NLP, RAG
-status  : Open to Internships & Full-Time Roles
+Name    : Rachit Dhakad
+Role    : 4th-year CSE student | Aspiring AI/ML Engineer
+College : Acropolis Institute of Technology and Research, Indore
+Stack   : Python, C++, SQL, Scikit-learn, Pandas, NumPy, NLP, RAG
+Status  : Open to Internships & Full-Time Roles
 ```
 <div align="center">
 
@@ -29,7 +29,7 @@ status  : Open to Internships & Full-Time Roles
 
 ### 👋 Hey, I'm Rachit
 
-I'm a third-year Computer Science student who likes building machine learning projects from the idea all the way to a live app.
+I'm a fourth-year Computer Science student who likes building machine learning projects from the idea all the way to a live app.
 
 I work mostly with Python, and I enjoy projects where ML, NLP and data come together into something people can actually use. My focus right now is becoming an AI/ML Engineer.
 
